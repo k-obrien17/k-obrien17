@@ -1,20 +1,17 @@
-## Hi there 👋
+# Keith O'Brien
 
-Content strategist, thought-leadership ghostwriter, and builder. Founder of [Total Emphasis](https://www.totalemphasis.com).
+Content strategist, executive ghostwriter, and builder of editorial operating systems. Founder of [Total Emphasis](https://www.totalemphasis.com).
 
-I help founders and executives turn what they know into content people actually consume, then build the tools that get it out the door. A reporter since 2001 and former editor-in-chief of PRWeek, I've ghostwritten executive thought leadership since 2009.
+I build tools around writing, research, archives, publishing, music, and taste. The public repo surface here is part portfolio, part working proof that the systems behind the work can be designed and shipped cleanly.
 
-## What I build
-The tools behind the work, mostly to do the writing better:
+Public projects:
 
-- An AI newsletter engine for [141 Miles](https://www.141miles.com), a Jersey Shore publication
-- MCP servers for a personal CRM and an articles index
-- A desktop workflow app for my ghostwriting pipeline
+- [keithrobrien](https://github.com/k-obrien17/keithrobrien)
+- [backyard-marquee](https://github.com/k-obrien17/backyard-marquee)
+- [album-case](https://github.com/k-obrien17/album-case)
 
-Usually Next.js, TypeScript, and Bun. Always tinkering with something new.
+Elsewhere:
 
-## Elsewhere
-- [Total Emphasis](https://www.totalemphasis.com)
 - [Personal site](https://www.keithrobrien.com)
 - [LinkedIn](https://www.linkedin.com/in/keithobrien)
 - [Muck Rack](https://muckrack.com/keithobrien)
