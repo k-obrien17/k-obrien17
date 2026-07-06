@@ -2,7 +2,7 @@
 
 Content strategist, executive ghostwriter, and builder of editorial operating systems. Founder of [Total Emphasis](https://www.totalemphasis.com).
 
-I build tools around writing, research, archives, publishing, music, and taste. The public repo surface here is part portfolio, part working proof that the systems behind the work can be designed and shipped cleanly.
+I build tools around writing, research, archives, publishing, music, and taste, with the public repo surface here serving as working proof that the systems behind the work can be designed and shipped cleanly.
 
 Public projects:
 
