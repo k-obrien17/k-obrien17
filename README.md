@@ -6,7 +6,6 @@ I build tools around writing, research, archives, publishing, music, and taste, 
 
 Editorial operating system:
 
-- [conduit](https://github.com/k-obrien17/conduit): local-first CRM server on a plain Obsidian vault. Bun, no database, markdown as the source of truth.
 - [atelier](https://github.com/k-obrien17/atelier): desktop project management for a solo ghostwriting practice. Tauri + Rust, markdown as the database.
 - [concordance](https://github.com/k-obrien17/concordance): MCP server for querying a 15,000-file Obsidian vault with sourced answers.
 - [total-emphasis-design-system](https://github.com/k-obrien17/total-emphasis-design-system): minimal, text-first design system. Tokens and app icon system.
