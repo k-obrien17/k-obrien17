@@ -16,7 +16,6 @@ Other projects:
 - [keithrobrien](https://github.com/k-obrien17/keithrobrien): personal site and public byline archive.
 - [backyard-marquee](https://github.com/k-obrien17/backyard-marquee): concert lineup builder for dream 5-artist bills.
 - [album-case](https://github.com/k-obrien17/album-case): album-ranking app for building a canonical music library.
-- [kopa](https://github.com/k-obrien17/kopa): local-first PWA training companion.
 
 Elsewhere:
 
